@@ -1,1 +1,95 @@
-/mavenproject1/target/
+# Maven
+**/target/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+**/dependency-reduced-pom.xml
+**/buildNumber.properties
+**/.mvn/timing.properties
+**/.mvn/wrapper/maven-wrapper.jar
+
+# NetBeans
+**/nbproject/private/
+**/build/
+**/dist/
+**/nbbuild/
+**/dist/
+**/nbdist/
+**/.nb-gradle/
+
+# Compiled class files
+**/*.class
+
+# Log files
+**/*.log
+**/*.log.*
+
+# Package Files
+**/*.jar
+**/*.war
+**/*.ear
+**/*.nar
+**/*.zip
+**/*.tar.gz
+**/*.rar
+
+# IDE - IntelliJ IDEA
+**/.idea/
+**/*.iws
+**/*.iml
+**/*.ipr
+**/out/
+
+# IDE - Eclipse
+**/.classpath
+**/.project
+**/.settings/
+**/.metadata/
+**/bin/
+**/tmp/
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~.*
+**/.loadpath
+**/.factorypath
+
+# IDE - VS Code
+**/.vscode/
+
+# OS Files
+# Windows
+**/Thumbs.db
+**/ehthumbs.db
+**/Desktop.ini
+**/$RECYCLE.BIN/
+**/.Trash-*
+
+# macOS
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+**/.DocumentRevisions-V100
+**/.fseventsd
+**/.Spotlight-V100
+**/.TemporaryItems
+**/.Trashes
+**/.VolumeIcon.icns
+**/.com.apple.timemachine.donotpresent
+
+# Linux
+**/.directory
+**/.Trash-*
+**/.nfs*
+
+# Database
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# Application specific
+**/ConnectDB.properties
+**/context.xml
+**/MANIFEST.MF
